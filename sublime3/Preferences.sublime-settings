@@ -1,0 +1,28 @@
+{
+	"auto_complete": "true",
+	"color_scheme": "Packages/Theme - Gravity/Monokai Gravity (SL).tmTheme",
+	"font_face": "monaco",
+	"font_options":
+	[
+		"subpixel_antialias"
+	],
+	"font_size": 10,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"SideBarEnhancements",
+		"Git",
+		"Vintage",
+		"sublimelint"
+	],
+	"indent_guide_options":
+	[
+		"draw_normal",
+		"draw_active"
+	],
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
+	"overlay_scroll_bars": "enabled",
+	"theme": "Soda Dark 3.sublime-theme",
+	"translate_tabs_to_spaces": false
+}
